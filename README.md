@@ -27,3 +27,4 @@ A Python application that tracks daily expenses using Pandas and visualizes data
 5. show the pie graph 2
 6. for exit/stop the process 3
 
+
